@@ -3,20 +3,20 @@ title: "Hedia Tnani"
 image: "hedia.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/h%C3%A9dia-tnani-0095221a7/"
   - label: Twitter
     url: "https://twitter.com/TnaniHedia"
   - label: GitHub
     url: "https://github.com/HediaTnani"
   - label: Email
-    url: "hediatnani0@gmail.com"
+    url: "mailto:hediatnani0@gmail.com"
 output:
   postcards::trestles
 ---
  
 ## Bio
 
-I am a professional Bioinformatician with excellent skills in Genomics Data analysis, R and Python programming, Shell scripting and Linux environment, Pipeline development and Machine Learning. I've been handling a wide range of data starting from transcsriptomics for gene expression profiling such as microarrays, RNAseq, scRNAseq, Variant calling and Genome-Wide Association Studies. My greatest passion lies in teaching bioinformatics and programming as well as automating scripts, developing packages and pipelines for bioinformatics and adding CI/CD using GitHub actions. On top of the Bioinformatics skills, I've Co-founded R-Ladies Tunis, PyLadies Tunis and Tunis R User Group to bring more diversity into the R and Python communities.
+I am a professional bioinformatician with excellent skills in genomics data analysis, R and Python programming, Shell scripting and Linux environment, Pipeline development and Machine Learning. I've been handling a wide range of data starting from transcriptomics for gene expression profiling such as microarrays, RNAseq, scRNAseq, Variant calling and Genome-Wide Association Studies. My greatest passion lies in teaching bioinformatics and programming as well as automating scripts, developing packages and pipelines for bioinformatics. On top of the bioinformatics skills, I've Co-founded R-Ladies Tunis, PyLadies Tunis and Tunis R User Group to bring more diversity into the R and Python communities.
 
 ## Education
 
