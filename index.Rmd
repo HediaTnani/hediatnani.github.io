@@ -3,7 +3,7 @@ title: "Hedia Tnani"
 image: "hedia.jpg"
 links:
   - label: LinkedIn
-    url: "https://www.linkedin.com/in/h%C3%A9dia-tnani-0095221a7/"
+    url: "https://www.linkedin.com/in/hedia-tnani-0095221a7/"
   - label: Twitter
     url: "https://twitter.com/TnaniHedia"
   - label: GitHub
