@@ -49,3 +49,14 @@ M.S. in Plant Breeding | September 2004 - September 2006
 **National Centre of Scientific Research (CNRS)** | PostDoctoral Fellow | September 2012 - September 2013
 
 **Centre for Research in Agricultural Genomics (CRAG)** | PhD candidate | January 2007 - July 2012
+
+
+## Volunteer Experience
+
+**Bioconductor** | Member of the Bioconductor Community Advisory Board | April 2022 - Present
+
+**Tunis R User Group** | Co-founder and Co-organizer | June 2021 - Present
+
+**PyLadies Tunis** | Co-founder and Co-organizer | June 2021 - Present
+
+**RLadies Tunis** | Co-founder and Co-organizer | May 2020 - Present
