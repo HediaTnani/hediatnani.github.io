@@ -3,19 +3,18 @@ title: "Hedia Tnani"
 image: "hedia.jpg"
 links:
   - label: LinkedIn
-    url: "https://linkedin.com/"
+    url: "https://www.linkedin.com/in/hedia-tnani-0095221a7/"
   - label: Twitter
     url: "https://twitter.com/TnaniHedia"
   - label: GitHub
     url: "https://github.com/HediaTnani"
   - label: Email
-    url: "hediatnani0@gmail.com"
+    url: "mailto:hediatnani0@gmail.com"
 output:
   postcards::trestles
 ---
 ```{r load_packages, message = FALSE, warning=FALSE, include=FALSE}
 library(fontawesome)
-
 pal1 = "#A32CC4" # purple
 pal4 = "#710193" # non-photo blue, 20% lighter
 pal6 = "#630436" # 20% darker
@@ -23,9 +22,7 @@ pal2 = "#EA7E5D" # burnt sienna
 pal3 = "#EC8C6F" # coral
 pal5 = "#8C1721" # carmine
 pal7 = "#C8504D" # bittersweet shimmer, 20% lighter than carmine
-
 ```
-
 
 ## <span style="color:  #710193;"> Bio</span>
 <br>
@@ -89,4 +86,3 @@ I am proficient in **<span style="color: #710193;">R</span>**, **<span style="co
 |  sc/snATAC-seq |
 |  bulkRNA-seq |
 ---
-
