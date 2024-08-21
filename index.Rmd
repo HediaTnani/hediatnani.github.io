@@ -37,16 +37,16 @@ I am proficient in **<span style="color: #710193;">R</span>**, **<span style="co
 |  |  |
 |:--------------------------------------------------|:----------------|
 | **<span style="color: #710193;">National School of Engineering (ENIT)</span>** | Tunis, Tunisia |
-| Master in TICV (Data Science) | [September 2019 - June 2020]{style="float:right"} |
+| Master in TICV (Data Science) | [2019 - 2020]{style="float:right"} |
 |<br>|   |
 | **<span style="color: #710193;">Centrale University (UC)</span>** | Tunis, Tunisia |
-| Master in Big Data | [September 2018 - June 2019]{style="float:right"} |
+| Master in Big Data | [2018 - 2019]{style="float:right"} |
 |<br>|   |
 | **<span style="color: #710193;">Universitat de Barcelona</span>** | Barcelona, Spain |
-| Ph.D. in Genetics | [January 2007 - July 2012]{style="float:right"} |
+| Ph.D. in Genetics | [2007 - 2012]{style="float:right"} |
 |<br>|   |
 | **<span style="color: #710193;">Mediterranean Agronomic Institute of Zaragoza</span>** | Zaragoza, Spain |
-| M.S. in Plant Breeding | [September 2004 - September 2006]{style="float:right"} |
+| M.S. in Plant Breeding | [2004 - 2006]{style="float:right"} |
 
 
 ---
@@ -55,22 +55,22 @@ I am proficient in **<span style="color: #710193;">R</span>**, **<span style="co
 
 |  |  |
 |:--------------------------------------------------|:----------------|
-| **<span style="color: #710193;">Lieber Institute for Brain Development</span>** | [November 2022 - Present]{style="float:right"} |
+| **<span style="color: #710193;">Lieber Institute for Brain Development</span>** | [2022 - Present]{style="float:right"} |
 | Staff Scientist |
 |<br>|   |
-| **<span style="color: #710193;">Centre for Genomic Regulation (CRG)</span>** | [July 2021 - October 2022]{style="float:right"} |
+| **<span style="color: #710193;">Centre for Genomic Regulation (CRG)</span>** | [2021 - 2022]{style="float:right"} |
 | PostDoctoral Fellow |
 |<br>|   |
-| **<span style="color: #710193;">Pasteur Institute of Tunis (IPT)</span>** | [December 2018 - December 2021]{style="float:right"} |
+| **<span style="color: #710193;">Pasteur Institute of Tunis (IPT)</span>** | [2018 - 2021]{style="float:right"} |
 | PostDoctoral Fellow |
 |<br>|   |
-| **<span style="color: #710193;">International Rice Research Institute (IRRI)</span>** | [November 2013 - October 2017]{style="float:right"} |
+| **<span style="color: #710193;">International Rice Research Institute (IRRI)</span>** | [2014 - 2017]{style="float:right"} |
 | PostDoctoral Fellow |
 |<br>|   |
-| **<span style="color: #710193;">National Centre of Scientific Research (CNRS)</span>** | [September 2012 - September 2013]{style="float:right"} |
+| **<span style="color: #710193;">National Centre of Scientific Research (CNRS)</span>** | [2012 - 2013]{style="float:right"} |
 | PostDoctoral Fellow |
 |<br>|   |
-| **<span style="color: #710193;">Centre for Research in Agricultural Genomics (CRAG)</span>** | [January 2007 - July 2012]{style="float:right"} |
+| **<span style="color: #710193;">Centre for Research in Agricultural Genomics (CRAG)</span>** | [ 2007 - 2012]{style="float:right"} |
 | PhD candidate |
 
 ---
